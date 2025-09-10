@@ -22,12 +22,12 @@ export default function Instructions() {
         </p>
 
         {/* List of instructions */}
-        <ul className="text-left text-gray-800 list-disc list-inside space-y-3 mb-8">
+        <ol className="text-left text-gray-800 list-disc space-y-3 mb-8 ml-5">
           <li className="text-md md:text-lg">
             This quiz contains <span className="font-semibold">10 problem solving questions</span> 5 on JavaScript and 5 on Python.
           </li>
           <li className="text-md md:text-lg">
-            You will have a total of <span className="font-semibold">15 minutes</span> to complete the quiz. The timer will start as soon as you begin.
+            You will have a total of <span className="font-semibold">20 minutes</span> to complete the quiz.
           </li>
 
           <li className="text-md md:text-lg">
@@ -36,7 +36,10 @@ export default function Instructions() {
           <li className="text-md md:text-lg">
             Your final score will be displayed at the end of the quiz.
           </li>
-        </ul>
+          <li className="text-md md:text-lg">
+            make a <b> ScreenShot </b> of your score and send it to me.
+          </li>
+        </ol>
 
         <a href="/Login">
           <button className="bg-[#34204A] text-white px-12 py-4 rounded-xl shadow-md hover:bg-[#4A2F6F] hover:scale-105 transition-all duration-300 ease-in-out mt-7 cursor-pointer font-bold">
