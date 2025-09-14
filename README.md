@@ -1,6 +1,9 @@
-# Code Quest Quiz App Documentation
-
-## Overview
+<div style="text-align: center;">
+  <h1 style="color: white">Welcome to Code Quest Quiz App</h1>
+<br>
+  <img src="public/Code Quest.jpg" alt="image" width="400" height="300">
+</div>
+<br>
 
 **Code Quest Quiz App** is an interactive coding quiz platform built with [Next.js](https://nextjs.org) that allows users to solve programming problems in JavaScript and Python. The app features an in-browser code editor, a dynamic set of problems, real-time scoring, and a modern UI.
 
@@ -21,7 +24,7 @@
 - **Responsive and Modern UI:**  
   Styled with Tailwind CSS and Geist font for a clean look.
 - **Deployable on Netlify:**  
-  Designed for easy deployment using [Vercel](https://vercel.com/).
+  Designed for easy deployment using [Netlify](https://www.netlify.com/).
 
 ---
 

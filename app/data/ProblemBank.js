@@ -22,7 +22,8 @@ const ProblemBank = [
   // Write your code here
 }`,
       python: `def twoSum(nums, target):
-    # Write your code here
+    # Write your code h
+    ere
     pass`,
     },
     solution: {
