@@ -1,7 +1,9 @@
 <div style="text-align: center;">
   <h1 style="color: white">Welcome to Code Quest Quiz App</h1>
 <br>
+  <p align="center">
   <img src="public/Code Quest.jpg" alt="image" width="400" height="300">
+    </p>
 </div>
 <br>
 
